@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>URL Threat Detector</title>
+    <title>Malicious URL Detector</title>
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
     <style>
         body {
@@ -148,7 +148,7 @@
         <p>{{ message }}</p>
         {% endif %}
 
-        <h2><i class="fas fa-link"></i> URL Threat Detection</h2>
+        <h2><i class="fas fa-link"></i> Malicious URL Detector</h2>
         <form method="post" action="/predict" onsubmit="showSpinner('urlForm', 'urlSpinner')">
             <label for="url">Enter URL:</label>
             <input type="text" name="url" required>
@@ -166,3 +166,4 @@
 
 </body>
 </html>
+
