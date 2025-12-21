@@ -40,6 +40,11 @@ cd Malicious-URL-Detection
 
 ---
 
+## Links 📌
+
+- Project Repository: [Click Here](https://github.com/doondi30/Malicious-URL-Detection)
+- Let's Connect: [LinkedIn](https://www.linkedin.com/in/doondi)
+
 
 
 
